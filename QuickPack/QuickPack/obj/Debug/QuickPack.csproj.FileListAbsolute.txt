@@ -1,0 +1,17 @@
+c:\dev\RSJ\QuickPack\QuickPack\bin\Debug\QuickPack.exe
+c:\dev\RSJ\QuickPack\QuickPack\bin\Debug\QuickPack.pdb
+c:\dev\RSJ\QuickPack\QuickPack\bin\Debug\Inventti.Core.4.0.dll
+c:\dev\RSJ\QuickPack\QuickPack\bin\Debug\Inventti.Core.dll
+c:\dev\RSJ\QuickPack\QuickPack\bin\Debug\log4net.dll
+c:\dev\RSJ\QuickPack\QuickPack\bin\Debug\Castle.Windsor.dll
+c:\dev\RSJ\QuickPack\QuickPack\bin\Debug\Castle.Core.dll
+c:\dev\RSJ\QuickPack\QuickPack\bin\Debug\Inventti.Core.4.0.pdb
+c:\dev\RSJ\QuickPack\QuickPack\bin\Debug\Inventti.Core.pdb
+c:\dev\RSJ\QuickPack\QuickPack\bin\Debug\log4net.xml
+c:\dev\RSJ\QuickPack\QuickPack\bin\Debug\Castle.Core.xml
+c:\dev\RSJ\QuickPack\QuickPack\obj\Debug\QuickPack.csprojResolveAssemblyReference.cache
+c:\dev\RSJ\QuickPack\QuickPack\obj\Debug\QuickPack.Form1.resources
+c:\dev\RSJ\QuickPack\QuickPack\obj\Debug\QuickPack.Properties.Resources.resources
+c:\dev\RSJ\QuickPack\QuickPack\obj\Debug\QuickPack.csproj.GenerateResource.Cache
+c:\dev\RSJ\QuickPack\QuickPack\obj\Debug\QuickPack.exe
+c:\dev\RSJ\QuickPack\QuickPack\obj\Debug\QuickPack.pdb
